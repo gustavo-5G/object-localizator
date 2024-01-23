@@ -1,0 +1,37 @@
+body {
+    background-color: darkcyan;
+}
+
+.spanObs{
+    font-size: 20px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#textoObjeto {
+    box-shadow: 10px 10px 10px black;
+    border: 5px;
+    border-color: 5px;
+    border-radius: 100px;
+}
+
+#status {
+    font-size: 18px;
+    color: white;
+}
+
+#numberOfObjects,
+#startModel {
+    font-size: 18px;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
